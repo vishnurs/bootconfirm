@@ -27,4 +27,4 @@ For anchors <a>.
 $("element-id).bootconfirm()
 ---------------------------------------------------------
 
-So, before every request is send to the server, you have to confirm the action. Will be handy if you are using a deadly DB operation.
+So, before every request is send to the server, you have to confirm the action. Will be handy if you are going to make a deadly DB operation.
