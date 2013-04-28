@@ -1,0 +1,41 @@
+.alert li {
+	list-style: none;
+}
+
+#ui-nav ul {
+
+	margin: 17px 0 10px 17px;
+}
+
+.nav_wrap {
+
+	border: 1px solid #C9C9C9;
+	border-radius: 10px 10px 10px 10px;
+	margin-left: 30px;
+	margin-top: 50px;
+	width: 75%;
+	background-color: white !important;
+}
+
+.sidebar_box {
+	border: 1px solid #C9C9C9;
+	border-radius: 5px;
+	background-color: white;
+	padding: 10px 10px 10px 18px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	/* color: #c9c9c9; */
+
+}
+
+.nomargin {
+	margin-left: 0px;
+}
+
+.dashboard_item {
+	height: 80px;
+}
+.ui-task-group{
+	margin-top: -24px;
+}
